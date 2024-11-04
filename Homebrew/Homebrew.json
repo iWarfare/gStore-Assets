@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Aurora",
+    "path": "Homebrew/Aurora",
+    "sha": "6bd8e42bfd02b463d87f94fb890f42a249373f89",
+    "size": 23912643,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Aurora?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Aurora",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/6bd8e42bfd02b463d87f94fb890f42a249373f89",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/Aurora",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Aurora?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/6bd8e42bfd02b463d87f94fb890f42a249373f89",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Aurora"
+    }
+  },
+  {
+    "name": "Dashlaunch",
+    "path": "Homebrew/Dashlaunch",
+    "sha": "ec0c21acc697bbf4a29adb5f92950efb3f128ce2",
+    "size": 1656746,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Dashlaunch?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Dashlaunch",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/ec0c21acc697bbf4a29adb5f92950efb3f128ce2",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/Dashlaunch",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Dashlaunch?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/ec0c21acc697bbf4a29adb5f92950efb3f128ce2",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Dashlaunch"
+    }
+  },
+  {
+    "name": "Freestyle Dash",
+    "path": "Homebrew/Freestyle Dash",
+    "sha": "3ed4b78f044dad850570750078cf1c08155411f5",
+    "size": 70822541,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Freestyle%20Dash?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Freestyle%20Dash",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/3ed4b78f044dad850570750078cf1c08155411f5",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/Freestyle%20Dash",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Freestyle%20Dash?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/3ed4b78f044dad850570750078cf1c08155411f5",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Freestyle%20Dash"
+    }
+  },
+  {
+    "name": "HDD Compatibility Fixer",
+    "path": "Homebrew/HDD Compatibility Fixer",
+    "sha": "84fd60027bad75d168fae41e75a4fc6a16c9b96f",
+    "size": 1021240,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/HDD%20Compatibility%20Fixer?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/HDD%20Compatibility%20Fixer",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/84fd60027bad75d168fae41e75a4fc6a16c9b96f",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/HDD%20Compatibility%20Fixer",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/HDD%20Compatibility%20Fixer?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/84fd60027bad75d168fae41e75a4fc6a16c9b96f",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/HDD%20Compatibility%20Fixer"
+    }
+  },
+  {
+    "name": "Simple 360 NAND Flasher",
+    "path": "Homebrew/Simple 360 NAND Flasher",
+    "sha": "d06b06a69a3b6a5fb27b705b5a10bb073f0122b9",
+    "size": 1065825,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Simple%20360%20NAND%20Flasher?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Simple%20360%20NAND%20Flasher",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/d06b06a69a3b6a5fb27b705b5a10bb073f0122b9",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/Simple%20360%20NAND%20Flasher",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/Simple%20360%20NAND%20Flasher?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/d06b06a69a3b6a5fb27b705b5a10bb073f0122b9",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/Simple%20360%20NAND%20Flasher"
+    }
+  },
+  {
+    "name": "XM360",
+    "path": "Homebrew/XM360",
+    "sha": "7e5292441e2bbc1a7b3ef7fa5a04e07c5bb7b94a",
+    "size": 9461102,
+    "url": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/XM360?ref=main",
+    "html_url": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/XM360",
+    "git_url": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/7e5292441e2bbc1a7b3ef7fa5a04e07c5bb7b94a",
+    "download_url": "https://raw.githubusercontent.com/iWarfare/gStore-Assets/main/Homebrew/XM360",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/iWarfare/gStore-Assets/contents/Homebrew/XM360?ref=main",
+      "git": "https://api.github.com/repos/iWarfare/gStore-Assets/git/blobs/7e5292441e2bbc1a7b3ef7fa5a04e07c5bb7b94a",
+      "html": "https://github.com/iWarfare/gStore-Assets/blob/main/Homebrew/XM360"
+    }
+  }
+]
